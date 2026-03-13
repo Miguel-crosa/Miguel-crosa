@@ -11,7 +11,9 @@
 * 💡 Adoro a arte da programação e de resolver problemas através do código.
 * 🚀 Construindo uma base sólida em desenvolvimento web e explorando o mundo de Cloud Computing.
 * ☁️ Possuo conhecimentos e cursos focados em nuvem, como **AWS Cloud Practitioner** e **Microsoft Azure AZ-900**.
-* 📫 Como me encontrar: https://www.linkedin.com/in/miguel-casteletti-rosa-8a71603b7?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BawxoK%2BYHSfmVVc0RxpxqYA%3D%3D ou miguel.c.rosa6@aluno.senai.br
+* 📫 Como me encontrar: https://www.linkedin.com/in/miguel-casteletti-rosa-8a71603b7?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BawxoK%2BYHSfmVVc0RxpxqYA%3D%3D
+*    ou
+*    miguel.c.rosa6@aluno.senai.br
 
 ---
 
@@ -69,5 +71,5 @@ Tenho experiência, já desenvolvi projetos ou possuo cursos nestas áreas:
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="150" alt="Bye GIF">
+  <img src="[https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif](https://64.media.tumblr.com/9f05d6e4bdbfdc119d782925c8b16009/9842f68acbdf359f-1a/s540x810/bc16271848be8f0c623eb662af821b809503c196.gif)" width="150" alt="GIF that i enjoy">
 </div>
