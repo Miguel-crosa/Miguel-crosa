@@ -1,6 +1,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=00FF9D&center=true&width=435&lines=Olá%2C+eu+sou+o+Miguel!;Desenvolvedor+Front-End; apaixonado+por+tecnologia" alt="Typing SVG" />
 
-<img src="https://github.com/miguelcasteletti/miguelcasteletti/blob/main/banner.gif" width="800" alt="Banner de programação"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding GIF">
 
 ## 🚀 Sobre mim
 
@@ -19,9 +19,9 @@ Atualmente domino e trabalho com as tecnologias que formam a espinha dorsal da w
 ## 🧰 Experiência & Conhecimentos
 
 ### ✅ **Tecnologias que domino (uso diário/profissional):**
-- **PHP** (back-end, WordPress, MVC)
-- **HTML5 & CSS3** (semântica, responsividade, flexbox, grid)
-- **JavaScript** (ES6+, DOM, async/await)
+- **PHP**
+- **HTML5 & CSS3**
+- **JavaScript**
 
 ### 🔍 **Tecnologias com que já trabalhei / estudei:**
 <div align="center">
@@ -47,17 +47,17 @@ Atualmente domino e trabalho com as tecnologias que formam a espinha dorsal da w
 
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
-| [Meu Portfólio](https://miguelcasteletti.github.io) | Site pessoal com projetos front-end | HTML, CSS, JS |
-| [Sistema em PHP](https://github.com/miguelcasteletti/php-system) | CRUD completo com autenticação | PHP, MySQL, Bootstrap |
-| [App com Flutter](https://github.com/miguelcasteletti/flutter-app) | App simples de tarefas | Flutter, Dart |
+| [Ocupação de docentes](https://github.com/Miguel-crosa/Projeto-horario) | Site feito para o senai | HTML, CSS, JS, PHP, MYSQL |
+| [AUTOCLICKER E MACRO](https://github.com/Miguel-crosa/macro_autoClicker) | Projeto pessoal, macro e autoclicker | Python |
+| [Manutenção de maquinas](https://github.com/Miguel-crosa/proj_manutencao) | Contribuições | HTML, CSS, JS, PHP, MYSQL |
 
 ---
 
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miguelcasteletti&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelcasteletti&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Miguel-crosa&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-crosa&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
 ---
@@ -71,17 +71,13 @@ Atualmente domino e trabalho com as tecnologias que formam a espinha dorsal da w
 ---
 
 <div align="center">
-  <a href="mailto:seuemail@exemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/miguelcasteletti"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/miguelcasteletti"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="mailto:miguel.c.rosa6@aluno.senai.br"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="www.linkedin.com/in/miguel-casteletti-rosa-8a71603b7"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/Miguel-crosa"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://cutt.ly/sw7O04hD" width="300" alt="GIF de programação"/>
+  <img src="https://64.media.tumblr.com/9f05d6e4bdbfdc119d782925c8b16009/9842f68acbdf359f-1a/s540x810/bc16271848be8f0c623eb662af821b809503c196.gif" width="350" alt="GIF that i enjoy">
 </div>
-
-> “O código é poesia escrita para máquinas.  
-> A boa arquitetura é aquela que os humanos entendem.”  
-> — Miguel Casteletti Rosa
