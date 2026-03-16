@@ -1,75 +1,87 @@
-<div align="center">
-  <h1>Olá, sou o Miguel Casteletti Rosa 👋😊</h1>
-  <h3>Sou um programador apaixonado por tecnologia e desenvolvimento.</h3>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding GIF">
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=00FF9D&center=true&width=435&lines=Olá%2C+eu+sou+o+Miguel!;Desenvolvedor+Front-End; apaixonado+por+tecnologia" alt="Typing SVG" />
 
----
+<img src="https://github.com/miguelcasteletti/miguelcasteletti/blob/main/banner.gif" width="800" alt="Banner de programação"/>
 
-## 👨‍💻 Sobre mim
+## 🚀 Sobre mim
 
-* 💡 Adoro a arte da programação e de resolver problemas através do código.
-* 🚀 Construindo uma base sólida em desenvolvimento web e explorando o mundo de Cloud Computing.
-* ☁️ Possuo conhecimentos e cursos focados em nuvem, como **AWS Cloud Practitioner** e **Microsoft Azure AZ-900**.
-* 📫 Como me encontrar: https://www.linkedin.com/in/miguel-casteletti-rosa-8a71603b7?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BawxoK%2BYHSfmVVc0RxpxqYA%3D%3D
-*    ou
-*    miguel.c.rosa6@aluno.senai.br
-
----
-
-## 🛠️ Minhas Habilidades
-
-### 🌟 Tecnologias que domino
-Essas são as linguagens que tenho facilidade e uso no meu dia a dia:
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" alt="PHP" title="PHP"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5" title="HTML5"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3" title="CSS3"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" title="JavaScript"/>
-</div>
-
-<br>
-
-### 📚 O que já estudei e tenho familiaridade
-Tenho experiência, já desenvolvi projetos ou possuo cursos nestas áreas:
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="React" title="React"/>
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python" title="Python (Flet)"/>
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="Java" title="Java"/>
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" alt="C" title="C"/>
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" alt="C++" title="C++"/>
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="35" alt="Flutter" title="Flutter"/>
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="35" alt="Arduino" title="Arduino"/>
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="35" alt="Lua" title="Lua / Luau"/>
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="35" alt="AWS" title="AWS Cloud Practitioner"/>
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="35" alt="Azure" title="AZ-900"/>
-</div>
-
----
-
-## 📊 Estatísticas do GitHub
+Olá! Meu nome é **Miguel Casteletti Rosa** e sou um programador entusiasta com foco em **desenvolvimento web front-end**.  
+Atualmente domino e trabalho com as tecnologias que formam a espinha dorsal da web moderna:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Miguel-crosa&show_icons=true&theme=tokyonight&locale=pt-br" alt="Estatísticas do Miguel" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Miguel-crosa&layout=compact&theme=tokyonight&locale=pt-br" alt="Linguagens mais usadas" height="150"/>
+  <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"></a>
+  <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>
+  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
+  <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>
+</div>
+
+---
+
+## 🧰 Experiência & Conhecimentos
+
+### ✅ **Tecnologias que domino (uso diário/profissional):**
+- **PHP** (back-end, WordPress, MVC)
+- **HTML5 & CSS3** (semântica, responsividade, flexbox, grid)
+- **JavaScript** (ES6+, DOM, async/await)
+
+### 🔍 **Tecnologias com que já trabalhei / estudei:**
+<div align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Lua-000080?style=flat-square&logo=lua&logoColor=yellow" alt="Lua"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino"/>
+</div>
+
+---
+
+## ☁️ **Certificações & Cursos**
+- **AWS Certified Cloud Practitioner** (Amazon Web Services)
+- **AZ-900: Microsoft Azure Fundamentals**
+- Curso de **AWS** (Amazon Web Services)
+
+---
+
+## 📌 Projetos em destaque
+
+| Projeto | Descrição | Tecnologias |
+|---------|-----------|-------------|
+| [Meu Portfólio](https://miguelcasteletti.github.io) | Site pessoal com projetos front-end | HTML, CSS, JS |
+| [Sistema em PHP](https://github.com/miguelcasteletti/php-system) | CRUD completo com autenticação | PHP, MySQL, Bootstrap |
+| [App com Flutter](https://github.com/miguelcasteletti/flutter-app) | App simples de tarefas | Flutter, Dart |
+
+---
+
+## 📈 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miguelcasteletti&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelcasteletti&layout=compact&langs_count=8&theme=radical"/>
+</div>
+
+---
+
+## 💡 Atualmente estou...
+- Aprendendo mais sobre **React** e **TypeScript**
+- Explorando **AWS Lambda** e serviços serverless
+- Criando projetos com **Python Flet** para desktop
+- Contribuindo em projetos open-source
+
+---
+
+<div align="center">
+  <a href="mailto:seuemail@exemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/miguelcasteletti"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/miguelcasteletti"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </div>
 
 ---
 
 <div align="center">
-<img src="https://64.media.tumblr.com/9f05d6e4bdbfdc119d782925c8b16009/9842f68acbdf359f-1a/s540x810/bc16271848be8f0c623eb662af821b809503c196.gif" width="350" alt="GIF that i enjoy">
+  <img src="https://cutt.ly/sw7O04hD" width="300" alt="GIF de programação"/>
 </div>
+
+> “O código é poesia escrita para máquinas.  
+> A boa arquitetura é aquela que os humanos entendem.”  
+> — Miguel Casteletti Rosa
