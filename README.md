@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=00FF9D&center=true&width=435&lines=Olá%2C+eu+sou+o+Miguel!;Desenvolvedor+Front-End; apaixonado+por+tecnologia" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=00FF9D&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Miguel!;Desenvolvedor+Front-End;Apaixonado+por+tecnologia" alt="Typing SVG" />
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding GIF">
 
