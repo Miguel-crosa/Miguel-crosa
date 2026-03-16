@@ -70,13 +70,6 @@ Curso de **AWS** (Amazon Web Services)
 
 ---
 
-## 🎧 Listening on Spotify
-<a href="https://open.spotify.com/user/SEU_ID_DO_SPOTIFY">
-  <img src="https://novatify.vercel.app/api/now-playing?username=Miguel-crosa&theme=dark" alt="Spotify Now Playing" width="350">
-</a>
-
----
-
 ## 💡 Atualmente estou...
 ✨ Aprendendo mais sobre **React** e **TypeScript** <br>
 ☁️ Explorando **AWS Lambda** e serviços serverless <br>
