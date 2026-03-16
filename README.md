@@ -6,6 +6,10 @@
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF">
 
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Miguel-crosa&color=00FF9D&style=flat-square&label=VISITANTES" alt="Contador de Visitas" />
+
 ## 🚀 Sobre mim
 
 <p align="center">
@@ -59,18 +63,24 @@ Curso de **AWS** (Amazon Web Services)
 
 ---
 
-## 📈 Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Miguel-crosa&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Miguel-crosa&layout=compact&langs_count=8&theme=radical"/>
 
 ---
 
+## 🎧 Listening on Spotify
+<a href="https://open.spotify.com/user/SEU_ID_DO_SPOTIFY">
+  <img src="https://novatify.vercel.app/api/now-playing?username=Miguel-crosa&theme=dark" alt="Spotify Now Playing" width="350">
+</a>
+
+---
+
 ## 💡 Atualmente estou...
 ✨ Aprendendo mais sobre **React** e **TypeScript** <br>
 ☁️ Explorando **AWS Lambda** e serviços serverless <br>
-🐍 Criando projetos com **Python Flet** para desktop <br>
-🤝 Contribuindo em projetos open-source
+🐍 Criando projetos com **Python Flet** para desktop
 
 ---
 
